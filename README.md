@@ -1,2 +1,3 @@
 # mask_detection
-a deep learning model to detect masks  in pictures
+A Deep learning model to detect masks  in pictures. 
+
